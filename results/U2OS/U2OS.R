@@ -1,8 +1,0 @@
-peaksInput("SETDB1.U2OS.bed")
-png("SETDB1.U2OS.png")
-linePlot(human, 0, 10000, 500)
-dev.off()
-peaksInput("TRIM28.U2OS.bed")
-png("TRIM28.U2OS.png")
-linePlot(human, 0, 10000, 500)
-dev.off()

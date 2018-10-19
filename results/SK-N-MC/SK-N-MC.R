@@ -1,8 +1,0 @@
-peaksInput("FOXP2.SK-N-MC.bed")
-png("FOXP2.SK-N-MC.png")
-linePlot(human, 0, 10000, 500)
-dev.off()
-peaksInput("POLR2A.SK-N-MC.bed")
-png("POLR2A.SK-N-MC.png")
-linePlot(human, 0, 10000, 500)
-dev.off()

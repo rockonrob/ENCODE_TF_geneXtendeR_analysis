@@ -1,8 +1,0 @@
-peaksInput("CTCF.NH-A.bed")
-png("CTCF.NH-A.png")
-linePlot(human, 0, 10000, 500)
-dev.off()
-peaksInput("EZH2.NH-A.bed")
-png("EZH2.NH-A.png")
-linePlot(human, 0, 10000, 500)
-dev.off()

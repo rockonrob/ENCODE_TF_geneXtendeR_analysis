@@ -1,8 +1,0 @@
-peaksInput("CTCF.ProgFib.bed")
-png("CTCF.ProgFib.png")
-linePlot(human, 0, 10000, 500)
-dev.off()
-peaksInput("POLR2A.ProgFib.bed")
-png("POLR2A.ProgFib.png")
-linePlot(human, 0, 10000, 500)
-dev.off()
